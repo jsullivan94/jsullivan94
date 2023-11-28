@@ -12,7 +12,7 @@ Transitioned from a background in music and culinary arts to software developmen
 ## Tech Skills
 - **Languages**: JavaScript, Python
 - **Frameworks**: React.js, Flask
-- 
+
 ## Let's Connect
 - **Email**: `jsullivan8794@gmail.com`
 - **LinkedIn**: `www.linkedin.com/in/james-sullivan-b7076a237`
