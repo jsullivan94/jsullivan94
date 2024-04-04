@@ -1,6 +1,6 @@
 # Hi, I'm James! 👋
 
-**Software Engineer | Musician | Former Chef**
+**Software Engineer | Musician | Chef**
 
 ## Education
 - 🎓 Graduated from **Flatiron School's 15-week Software Engineering bootcamp**.
